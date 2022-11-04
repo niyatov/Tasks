@@ -26,4 +26,3 @@ C:\Users\acer\Desktop\git\my_treasure\Identity_Task2\obj\Debug\net6.0\refint\Ide
 C:\Users\acer\Desktop\git\my_treasure\Identity_Task2\obj\Debug\net6.0\Identity_Task2.pdb
 C:\Users\acer\Desktop\git\my_treasure\Identity_Task2\obj\Debug\net6.0\Identity_Task2.genruntimeconfig.cache
 C:\Users\acer\Desktop\git\my_treasure\Identity_Task2\obj\Debug\net6.0\ref\Identity_Task2.dll
-C:\Users\acer\Desktop\git\my_treasure\Identity_Task2\bin\Debug\net6.0\output.json

@@ -4,7 +4,7 @@ using System.Security.Claims;
 
 namespace Identity_Task2.Controllers;
 [ApiController]
-[Route("/api/[controller]")]
+[Route("/api/[controller]/n")]
 
 public class IdentityController : Controller
 {
@@ -15,6 +15,11 @@ public class IdentityController : Controller
         _jsonService = jsonService;
     }
 
+    [HttpGet]
+    public IActionResult GetEkuk(int n)
+    {
+      
+    }
     [HttpPost]
     public IActionResult Post(User user)
     {

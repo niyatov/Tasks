@@ -7,6 +7,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<JsonService>();
+builder.Services.AddSingleton<Option>();
 
 var app = builder.Build();
 
