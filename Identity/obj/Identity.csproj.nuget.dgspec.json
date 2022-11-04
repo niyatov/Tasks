@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\git\\my_treasure\\Identity\\Identity.csproj": {}
+    "C:\\Users\\acer\\Desktop\\New folder (6)\\Tasks\\Identity\\Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\git\\my_treasure\\Identity\\Identity.csproj": {
+    "C:\\Users\\acer\\Desktop\\New folder (6)\\Tasks\\Identity\\Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\git\\my_treasure\\Identity\\Identity.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\New folder (6)\\Tasks\\Identity\\Identity.csproj",
         "projectName": "Identity",
-        "projectPath": "C:\\Users\\acer\\Desktop\\git\\my_treasure\\Identity\\Identity.csproj",
+        "projectPath": "C:\\Users\\acer\\Desktop\\New folder (6)\\Tasks\\Identity\\Identity.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\git\\my_treasure\\Identity\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\New folder (6)\\Tasks\\Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
